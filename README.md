@@ -1,21 +1,36 @@
 # Google-Keep-Clone-
 
-# Landing Page 
-
 ![Screenshot (82)](https://user-images.githubusercontent.com/98008756/175246709-aef393ff-acce-471f-9edd-f540c2687f29.png)
 
-# Area for adding a Note 
+## Getting Started 🎧
 
-![Screenshot (83)](https://user-images.githubusercontent.com/98008756/175246711-7710e40d-4271-482a-a44d-02dbd9c8a318.png)
+This project utilized the benefits of multiple technologies such as React, Javascript, HTML5, CSS, and SCSS.
 
-# Notes
+It's better if we familiarize ourselves with these technologies. 
 
-![Screenshot (84)](https://user-images.githubusercontent.com/98008756/175246693-483b771a-e4f0-442e-b4b5-89e7da45df2c.png)
+### Prerequisites
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
 
-# React Dev tools
+There is no need for any software for running the project! The editor and package manager are all at your discretion. 
 
-![Screenshot (86)](https://user-images.githubusercontent.com/98008756/175246706-ebbaa2d0-d5fd-448d-bf37-3a5cbed0a0c1.png)
+## Installing☔
 
-# React Components
+It is pretty straightforward :
 
-![Screenshot (85)](https://user-images.githubusercontent.com/98008756/175246703-c0027ef3-d227-4529-b904-91cc991ef956.png)
+**Clone the repo:** 
+```
+git clone <repository Url>
+```
+
+## Deployment 💡
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://www.twitter.com/chowdarys_lad/) [![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/chowdaryslad/) [![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/chowdaryslad)
+
+**Run the application** 
+```
+Use live server extension in vs code.
+```
+
+## Acknowledgments 💖
+
+* To my family👪  and friends 👫 who always kept me motivated.
+* To the community of computer science 💻.
